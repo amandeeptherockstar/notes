@@ -4,3 +4,5 @@
   - getCountryForTimezone()
 
 - [https://www.npmjs.com/package/detect-browser](https://www.npmjs.com/package/detect-browser)
+- [https://www.npmjs.com/package/country-flag-icons](https://www.npmjs.com/package/country-flag-icons)
+- [https://www.npmjs.com/package/react-country-flag](https://www.npmjs.com/package/react-country-flag)
